@@ -3,6 +3,8 @@
 # Bu repository ni clone qilish quyidagicha
     git clone https://github.com/ozodbekDeveloper2008/git_lesson_first.git
 komandasini terminalda ishga tushiramiz
+ 1.yaxshi zor
+
 
 
 # uyga vazifa 
